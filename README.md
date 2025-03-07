@@ -43,7 +43,7 @@ To install pygame type the following command in your terminal:
 Now that you have every thing you need to run the game you need to download the game. There are several ways of doing so.
 
 If you have git installed on your computer, open a terminal in the folder where you want the game installed and then type:     
-```git clone https://github.com/LouisonCalbrix/archery.git```     
+```git clone https://github.com/ayushshah-py/ARCHARY_PYTHON.git```     
 
 If you don't have git, don't panic. Click the 'Clone or download' button up there and then 'Download ZIP'. Once this is done, just unzip that file wherever you want the game to sit on your machine.
 
