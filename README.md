@@ -1,4 +1,4 @@
-![Archery Banner](resources/banner.png)
+![Archery Banner](banner.png)
 
 Written by AYUSH SHAH 
 
